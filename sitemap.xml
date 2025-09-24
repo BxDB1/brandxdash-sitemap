@@ -9,9 +9,9 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Essays on Substack -->
+  <!-- Sitemap Subdomain -->
   <url>
-    <loc>https://deviekagautam.substack.com/</loc>
+    <loc>https://sitemap.brandxdash.com/sitemap.xml</loc>
     <lastmod>2025-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
